@@ -1,0 +1,8 @@
+{
+	"gamewaktu": 60,
+	"limitCount": 30,
+	"gcount": {
+		"prem": 40,
+		"user": 20
+	}
+}
