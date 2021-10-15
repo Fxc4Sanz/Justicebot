@@ -113,7 +113,7 @@ botname = setting.botname
 g = setting.g
 notif = setting.notif
 namaowner = setting.namaowner
-
+shp = '•'
 
 lolkey = setting.lolkey
 zeksapi = setting.zeksapi
