@@ -3169,30 +3169,24 @@ case 'nhsearch': case 'nhentaisearch': {
            }
                break
 case 'xnxxdown':
+case 'xxnxdownload':
 if (!isPremium && !bal.key.fromMe) return reply(mess.prem)
-                    if (isLimit(sender, isPremium, isOwner, limitCount, limit)) return reply (`Limit kamu sudah habis silahkan kirim ${prefix}limit untuk mengecek limit`)
-              ///  if (isGroup && !isNsfw) return reply(ind.notNsfw())
-                if (args.length < 2) return reply(`Penggunaan ${command} _query_`)
-                reply(mess.wait)
-                    fetchJson(`https://api.lolhuman.xyz/api/xnxxsearch?apikey=${lolkey}&query=${q}`)
-                    .then((data) =>{
-                    var get_result = data.result
-                     var ini_txt = ""
-                    for (var x of get_result) {
-                        ini_txt += `*Title* : ${x.title}\n`
-                        ini_txt += `*Views* : ${x.views}\n`
-                        ini_txt += `*Duration* : ${x.duration}\n`
-                        ini_txt += `*Uploader* : ${x.uploader}\n`
-                        ini_txt += `*Link* : ${x.link}\n\n`
-                    }
-                    iqbl.sendFileFromUrl(from, get_result[0].thumbnail, ini_txt, bal)
-                     limitAdd(sender, limit)
-                   })
-              .catch((err) => {
-                            iqbl.sendMess(ownerNumber[0], `${command} Error:` + err)
-                            reply(mess.error.api)
-                        })
-                    break
+if (!q) return reply(`Example: ${prefix + command} https://www.xnxx.com/video-uy5a73b/mom_is_horny_-_brooklyn`)
+anu = await fetchJson(`https://api.lolhuman.xyz/api/xnxx?apikey=${lolkey}&url=${q}`)
+nxx = 
+`*XNXX DOWNLOADER*
+*Title* : ${anu.result.title}
+*Durasi* : ${anu.result.duration}
+*Rating* : ${anu.result.rating}
+*Penonton* : ${anu.result.view}
+*Like* : ${anu.result.like}
+*Dislike* : ${anu.result.dislike}
+*Comment*: ${anu.result.comment}
+
+*VIDEO AKAN DI KIRIM...*`
+sendMediaURL(from,`${anu.result.thumbnail}`,nxx)
+sendMediaURL(from,`${anu.result.link[0].link}`,`${anu.result.title}`)
+break
    case 'nekopoidown': 
    if (!isPremium && !bal.key.fromMe) return reply(mess.prem)
                     if (isLimit(sender, isPremium, isOwner, limitCount, limit)) return reply (`Limit kamu sudah habis silahkan kirim ${prefix}limit untuk mengecek limit`)
