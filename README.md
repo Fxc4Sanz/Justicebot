@@ -6,6 +6,10 @@
 >
 >
 >
+</div>
+</h4>
+</p>
+
 ## INSTALL FOR TERMUX
 ```bash
 > pkg install git
