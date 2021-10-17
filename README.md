@@ -63,8 +63,12 @@ All Fitur Menu ✅
 >
 
 <
-
 ```
+  <h4 align="center">
+  <a href="https://wa.me/6281273417450">:< </a>
+</h4>
+</p>
+
   # THANKS TO
 * [`Baileys`]
 * [`MhankBarBar`]
