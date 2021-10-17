@@ -25,7 +25,7 @@
 
 ## INSTALL FOR HEROKU
 ```bash
-> [`Install Ffmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* [`Install Ffmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 * [`Install Webp`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
 * [`Install ImageMagick`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
 ```
@@ -76,3 +76,4 @@ All Fitur Menu ✅
 * [`Denis`] 
 * [`Rappa`]
 * [`Hexa`]
+  
