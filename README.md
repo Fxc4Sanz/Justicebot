@@ -8,38 +8,71 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/HiRyn"><img title="Author" src="https://img.shields.io/badge/Author-HiRyn-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Fxc4Sanz"><img title="Author" src="https://img.shields.io/badge/Fxc4Sanz.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285240750713">:< </a>
+  <a href="https://wa.me/6281273417450">:< </a>
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX
+## INSTALL FOR TERMUX
 ```bash
-> pkg install nodejs && pkg install git
-> git clone https://github.com/HiRyn/selfbot/
+> pkg install git
+> git clone https://github.com/Fxc4Sanz/fxc2sanz
 > cd selfbot
 > bash install.sh
 > npm start/node main.js
 ```
-## gw cuma fixing berapa bug ae:v
 
-## Pimtur ?? cek aja Udah gw perbarui
+## INSTALL FOR HEROKU
+```bash
+> [`Install Ffmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* [`Install Webp`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
+* [`Install ImageMagick`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
+```
+
 ```bash
 Stick cmd ✅
+
 button cmd ✅
 
-Cara dapetin id sticker?
-reply sticker dengan caption hash
-setelah itu lihat di termux jika ada tulisan 
-seperti ini
-"LE6XD8kOiGY/zVKbf9Zg0TuSUBeOep2O+03/mSNjIaM="
-copy aja
+Ytplay ✅
+
+Ytdl ✅
+
+Sticker ✅
+
+Welcome ✅
+
+Antilink ✅
+
+Term ✅
+
+Download All Media ✅
+
+AutoRespon ✅
+
+Antidelete ✅
+
+Autovn ✅
+
+Autongetik ✅
+
+Autoread ✅
+
+All Fitur Menu ✅
+>
+
+<
+
 ```
-  # MAKASIH LORT
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Hexa`](https://github.com/Hexagonz)
-  
-* [`Team WʜᴀᴛsAᴘᴘCᴏᴅᴇ⁴̻̹̅º̸͚̽͢³̶͠ ༯`](https://chat.whatsapp.com/BINtOrdi8eb6PC7YhAqYGO)
+  # THANKS TO
+* [`Baileys`]
+* [`MhankBarBar`]
+* [`MRHRTZ`]
+* [`Iqbal`]
+* [`Akira`]
+* [`Aqull`]
+* [`Yogi`]
+* [`Denis`] 
+* [`Rappa`]
+* [`Hexa`]
