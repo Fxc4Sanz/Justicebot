@@ -1,35 +1,56 @@
-## Clone this project
+<div align="center">
+<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="YOGI" width="170" />
 
+## SELF-BOT
+
+</div>
+
+<p align="center">
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=SELF-BOT&color=blue"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-yogipw-blue.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<p align="center">
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=SELF-BOT&color=blue"></a>
+</p>
+
+# Requirements
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+
+# Instalasi
+## Clone Repo & Instalasi dependencies
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/yogipw/Self-Bot
+> cd Self-Bott
+> npm install
+> node .
 ```
-
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
-
+## For Termux
 ```bash
-> cd termux-wabot
+> termux-setup-storage
+> apt update && apt upgrade
+> pkg install nodejs
+> pkg install git
+> pkg install bash
+> git clone https://github.com/yogipw/Self-Bot
+> cd Self-Bot
 > bash install.sh
-```
-
-### Usage
-```bash
-> npm start
-```
-
-### Settings
-```json {
-
-
-
-{
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
-	"apiKey": "Your ApiKey here"
-}
+> npm install
+> node .
 ```
 
 
-* <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-* <a href="https://paypal.me/mhankbarbar"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+## Connect With Me
+<p align="center">
+ <a href="https://instagram.com/yogipw"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+62853535697153"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
+
+# Thanks To
+* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Hexagonz`](https://github.com/hexagonz)
+
