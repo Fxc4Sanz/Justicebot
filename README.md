@@ -68,6 +68,9 @@ All Fitur Menu ✅
 <
 ```
 
+  # Jika Tydak Bisa Scan Hapus Sessions.json
+
+
   # THANKS TO
 * [`Baileys`]
 * [`MhankBarBar`]
