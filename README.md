@@ -24,11 +24,18 @@
 ```
 
 ## INSTALL FOR HEROKU
-```bash
-* [`Install Ffmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
-* [`Install Webp`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
-* [`Install ImageMagick`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
-```
+  <h4 align="center">
+  <a href="https://github.com/clhuang/heroku-buildpack-webp-binaries.git">Webp </a>
+</h4>
+</p>
+  <h4 align="center">
+  <a href="https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest">Ffmpeg </a>
+</h4>
+</p>
+  <h4 align="center">
+  <a href="https://github.com/DuckyTeam/heroku-buildpack-imagemagick">Imagemagick </a>
+</h4>
+</p>
 
 ```bash
 Stick cmd ✅
@@ -64,10 +71,6 @@ All Fitur Menu ✅
 
 <
 ```
-  <h4 align="center">
-  <a href="https://wa.me/6281273417450">:< </a>
-</h4>
-</p>
 
   # THANKS TO
 * [`Baileys`]
