@@ -6,14 +6,6 @@
 >
 >
 >
-</div>
-<p align="center">
-  <a href="https://github.com/Fxc4Sanz"><img title="Author" src="https://img.shields.io/badge/Fxc4Sanz.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://wa.me/6281273417450">:< </a>
-</h4>
-</p>
-
 ## INSTALL FOR TERMUX
 ```bash
 > pkg install git
