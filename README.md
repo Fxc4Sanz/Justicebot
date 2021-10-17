@@ -14,7 +14,7 @@
 ```bash
 > pkg install git
 > git clone https://github.com/Fxc4Sanz/fxc2sanz
-> cd selfbot
+> cd fxc2sanz
 > bash install.sh
 > npm start/node main.js
 ```
